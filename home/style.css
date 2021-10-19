@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.position{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+
+.game_mode_logo{
+    width: 300px;
+}
+
+.top_up input{
+    padding: 12px;
+    width: 250px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.151);
+    color: black;
+    border-radius: 5px;
+}
+
+.top_up select{
+    padding: 12px;
+    width: 275px;
+    border: 1x solid black;
+    background-color: rgba(0, 0, 0, 0.151);
+    border-radius: 5px;
+}
+
+.top_up button{
+    padding: 12px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.151);
+    border-radius: 5px;
+}
